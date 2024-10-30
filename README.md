@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Esteban Sempere
 =======================================================================================================================================
 
-Junior FullStack Developer
---------------------------
+Junior FullStack Developer == .NET and Angular.JS
+--------------------------------------------------
 
 Junior Developer with +1 year of experience. I really like back-end, but recently, I've been practicing with some Front technologies. I'm in a constant learn, being in touch with tech news
 

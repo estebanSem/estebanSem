@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior FullStack Developer
 --------------------------
 
-Junior Developer with 2 years of experience. I really like back-end, but recently, I've been practicing with some Front technologies. I'm in a constant learn, being in touch with tech news
+Junior Developer with +1 year of experience. I really like back-end, but recently, I've been practicing with some Front technologies. I'm in a constant learn, being in touch with tech news
 
 * 🌍  I'm based in Alicante, Spain
 * ✉️  You can contact me at [esteban.daw11@gmail.com](mailto:esteban.daw11@gmail.com)

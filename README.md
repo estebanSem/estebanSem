@@ -24,6 +24,6 @@ Junior Developer with +1 year of experience. I really like back-end, but recentl
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Colte111"><img src="https://github-readme-stats.vercel.app/api?username=Colte111&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Colte111's GitHub stats" /></a>
+<a href="http://www.github.com/estebanSem"><img src="https://github-readme-stats.vercel.app/api?username=estebanSem&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="estebanSem's GitHub stats" /></a>
 
-<a href="https://github.com/Colte111" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colte111&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/estebanSem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanSem&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
